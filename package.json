@@ -1,0 +1,17 @@
+{
+  "name": "ledstrip",
+  "version": "1.0.0",
+  "description": "LED strip controlled by Twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "peetj",
+  "license": "ISC",
+  "dependencies": {
+    "arduino": "^0.2.3",
+    "dotenv": "^4.0.0",
+    "johnny-five": "^0.11.7",
+    "twitter": "^1.7.1"
+  }
+}
